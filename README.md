@@ -10,6 +10,9 @@ Escuela de Ingeniería Informática, Facultad de Ingeniería
 
 ## Integrantes
 
+Yoselin Cornejo
+José Hernandez
+Juan Durán
 
 ---
 
